@@ -1,0 +1,12 @@
+h1 {
+    font-family: Arial, 'Times New Roman', sans-serif;
+    color: rgba(26, 70, 227, 0.625);
+}
+.bgfood {
+    width: 500px;
+    height: auto;
+}
+.Recipe {
+   font-family: 'Arial', 'Times New Roman', sans-serif;
+   font-size: 20px;
+}
