@@ -16,3 +16,10 @@ body {
     font-size: 20px;
     font-family: Cambria, 'Times New Roman', sans-serif;
 }
+
+.jump {
+    font-size: 20px;
+    background-color: aquamarine;
+    border-color: aquamarine;
+    border-style: groove;
+}

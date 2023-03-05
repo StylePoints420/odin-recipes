@@ -15,3 +15,10 @@ body {
     font-size: 20px;
     font-family: 'Lucida Sans', 'Lucida Sans Unicode', sans-serif;
 }
+
+.jump {
+    font-size: 20px;
+    background-color: aquamarine;
+    border-color: aquamarine;
+    border-style: groove;
+}
