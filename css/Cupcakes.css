@@ -1,0 +1,18 @@
+body {
+    background-color: antiquewhite;
+}
+
+.headings {
+    color: #3f27c7f9;
+    font-family: Cambria, 'Times New Roman', sans-serif;
+}
+
+.bgimg {
+    width: 800px;
+    height: auto;
+}
+
+.list {
+    font-size: 20px;
+    font-family: Cambria, 'Times New Roman', sans-serif;
+}
